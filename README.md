@@ -65,7 +65,7 @@ Evidencia visual del comportamiento autónomo de los bloques de construcción fr
     <td width="50%" align="center"><b>🤖 Agente 2 (OpenAI Codex)</b></td>
   </tr>
   <tr valign="top">
-    <td><img src="img/agente1_1.png" width="100%"></td>
+    <td><img src="img/agente1_1..png" width="100%"></td>
     <td><img src="img/agente2_1.png" width="100%"></td>
   </tr>
 </table>
