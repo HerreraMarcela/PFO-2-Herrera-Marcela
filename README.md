@@ -35,6 +35,30 @@ El prompt definitivo fue estructurado siguiendo las guías y buenas prácticas o
 *Restricción de Evaluación:* Se respetó de forma estricta la consigna de **no modificar el código de forma manual**
 permitiendo evaluar la efectividad y autonomía real de cada agente basado en la instrucción inicial
 
+## 2. Prompt Utilizado
+
+```text
+Rol: Eres un Ingeniero de Software Frontend Senior experto en UX/UI y maquetación limpia.
+
+Contexto: Necesito crear de forma completamente autónoma una Landing Page para una plataforma de biotecnología llamada "BioData AI". El diseño debe ser moderno, con fondo oscuro profundo, tipografía clara y acentos en verde bioeléctrico o cian para los botones.
+
+Requisitos Técnicos:
+1. Usa HTML5 semántico y CSS3 moderno por separado (index.html y styles.css).
+2. El diseño debe ser 100% responsivo (mobile-first), adaptándose perfectamente a celulares y computadoras.
+3. No utilices texto falso de relleno como "Lorem Ipsum". Todo el contenido debe ser real, profesional y redactado en español.
+
+Estructura Obligatoria de la Landing Page (7 Secciones):
+1. Cabecera (Header): Nombre "BioData AI" and menú de navegación con scroll suave.
+2. Sección Principal (Hero): Título de impacto sobre IA aplicada a la biotecnología, un subtítulo descriptivo y un botón de acción que diga "Solicitar Demo".
+3. Sobre Nosotros: Descripción de cómo la plataforma optimiza investigaciones científicas y procesamiento de datos masivos. Incluye un bloque visual con métricas de impacto (ej. velocidad de procesamiento, precisión).
+4. Servicios (Tarjetas): Una cuadrícula con 3 tarjetas informativas tituladas "Procesamiento Genómico Avanzado", "Modelado Predictivo de Células" y "Reportes Analíticos".
+5. Testimonios: Dos opiniones breves de investigadores o directores de laboratorios ficticios.
+6. Formulario de Contacto: Maquetado visual de un formulario limpio y despejado con campos para Nombre, Correo Institucional y Mensaje. Ningún otro elemento debe superponerse dentro de este contenedor.
+7. Pie de Página (Footer): Estructura limpia, equilibrada y completamente alineada. Debe contener de forma organizada: Logo, sección "Síguenos" con redes sociales profesionales (LinkedIn, GitHub, Twitter), menú de navegación horizontal prolijo en una sola línea (aplicando Flexbox en escritorio) y derechos de autor 2026.
+
+Genera el código completo de forma directa, limpio y listo para producción sin requerir intervención posterior.
+
+
 ---
 
 ## 📸 4. Evidencia Visual y Galería Comparativa
