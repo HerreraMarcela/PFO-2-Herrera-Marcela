@@ -57,6 +57,7 @@ Estructura Obligatoria de la Landing Page (7 Secciones):
 7. Pie de Página (Footer): Estructura limpia, equilibrada y completamente alineada. Debe contener de forma organizada: Logo, sección "Síguenos" con redes sociales profesionales (LinkedIn, GitHub, Twitter), menú de navegación horizontal prolijo en una sola línea (aplicando Flexbox en escritorio) y derechos de autor 2026.
 
 Genera el código completo de forma directa, limpio y listo para producción sin requerir intervención posterior.
+```
 
 
 ---
