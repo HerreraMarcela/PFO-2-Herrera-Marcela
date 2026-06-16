@@ -35,7 +35,7 @@ El prompt definitivo fue estructurado siguiendo las guías y buenas prácticas o
 *Restricción de Evaluación:* Se respetó de forma estricta la consigna de **no modificar el código de forma manual**
 permitiendo evaluar la efectividad y autonomía real de cada agente basado en la instrucción inicial
 
-## 2. Prompt Utilizado
+##  Prompt Utilizado
 
 ```text
 Rol: Eres un Ingeniero de Software Frontend Senior experto en UX/UI y maquetación limpia.
