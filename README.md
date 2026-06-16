@@ -135,4 +135,4 @@ Evidencia visual del comportamiento autónomo de los bloques de construcción fr
 
 ## 🔗 6. Enlaces de Acceso al Despliegue
 * **Link al Repositorio :**
-* **Link al Deploy Unificado (Vercel):** 
+* **Link al Deploy Unificado (Vercel):** https://pfo-2-herrera-marcela.vercel.app/
